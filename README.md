@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Web-Dev**
 
-- 🤝 I’m looking for help with **web-dev**
-
 - 📫 How to reach me **-abhi nhi**
 
 <h3 align="left">Connect with me:</h3>
