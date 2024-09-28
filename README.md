@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeby-raj&label=Profile%20views&color=0e75b6&style=flat" alt="codeby-raj" /> </p>
 
-✨ Creating bugs since 2023
-📚 I'm currently learning WEB DEV and DSA
-🎲 Fun fact: When I'm not coding, you can find me smashing shuttles in badminton court.
+✨ Creating bugs since 2023 <br>
+📚 I'm currently learning WEB DEV and DSA <br>
+🎲 Fun fact: When I'm not coding, you can find me smashing shuttles in badminton court. <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
