@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">College Student @ABES'EC</h3>
+<h3 align="center">@ABES'EC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeby-raj&label=Profile%20views&color=0e75b6&style=flat" alt="codeby-raj" /> </p>
 
-✨ Creating bugs since 2023 <br>
+✨ Creating bugs <br>
 📚 I'm currently learning WEB DEV and DSA <br>
 🎲 Fun fact: When I'm not coding, you can find me smashing shuttles in badminton court. <br>
 
