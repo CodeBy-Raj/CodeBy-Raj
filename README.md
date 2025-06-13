@@ -10,7 +10,7 @@
 
 
 ✨ Creating Bugs Since 'Hello,World !' <br>
-📚 I'm currently learning WEB DEV and DSA <br>
+📚 I'm currently learning MERN and DSA <br>
 🎲 Fun fact: When I'm not coding, you can find me smashing shuttles in badminton court. <br>
 
 <h3 align="left">Connect with me:</h3>
